@@ -1,1 +1,3 @@
-<h1> BM Privacy </h1>
+
+# Bitcoin Magazine Privacy
+
