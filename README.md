@@ -1,1 +1,2 @@
-# testpriv
+# Bitcoin Magazine Privacy
+
