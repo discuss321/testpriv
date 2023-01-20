@@ -1,3 +1,2 @@
-
-# Bitcoin Magazine Privacy
+Priv
 
